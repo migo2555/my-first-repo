@@ -14,3 +14,11 @@ This is a simple project to learn GitHub basics.
 - Instructions for beginners. 
  
 - Easy-to-follow examples.  
+
+## How to Contribute 
+ 
+- Fork the repository. 
+ 
+- Create a new branch for your feature. 
+ 
+- Submit a Pull Request with your changes.
